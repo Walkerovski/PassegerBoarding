@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Jan Kowalski",
+        "flights": [
+            {
+                "plane": "AirWing152",
+                "seat": 62
+            },
+            {
+                "plane": "AirWing122",
+                "seat": 28
+            }
+        ]
+    },
+    {
+        "name": "Aneta Ferrari",
+        "flights": [
+            {
+                "plane": "AirWing122",
+                "seat": 22
+            }
+        ]
+    }
+]
